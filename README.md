@@ -68,3 +68,8 @@ cd (the folder containing the three files, for example 'exercises')
 
 streamlit run app.py
 
+
+Screen Shot:
+<img width="1912" height="978" alt="屏幕截图 2026-02-09 141226" src="https://github.com/user-attachments/assets/ecf25853-65dd-41ad-a737-42339ee78813" />
+<img width="1916" height="952" alt="屏幕截图 2026-02-09 141326" src="https://github.com/user-attachments/assets/ff1ff89a-c1d5-4815-9360-62e34513152d" />
+<img width="1896" height="936" alt="屏幕截图 2026-02-09 141359" src="https://github.com/user-attachments/assets/eb006cd2-1937-4e3b-8688-6a45fbf4ce3b" />
